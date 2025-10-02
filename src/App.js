@@ -2,7 +2,7 @@ import React from 'react';
 
 function App() {
     return (
-        <div style={{ margin: "2rem", fontFamily: "Arial, sans-serif" }}>
+        <div style={{ margin: "2rem", fontFamily: "Verdana, sans-serif" }}>
             <h1>Form Project</h1>
             <form>
                 <div style={{ marginBottom: "1rem" }}>
